@@ -1,0 +1,5 @@
+/build/
+/env/
+/opencv/
+/test*.jpg
+opencv.zip
